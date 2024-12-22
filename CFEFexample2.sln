@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFEFexample2", "CFEFexample2\CFEFexample2.csproj", "{995E57A0-2A80-49B9-9AAA-FC9BD2140031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{995E57A0-2A80-49B9-9AAA-FC9BD2140031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995E57A0-2A80-49B9-9AAA-FC9BD2140031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995E57A0-2A80-49B9-9AAA-FC9BD2140031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995E57A0-2A80-49B9-9AAA-FC9BD2140031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E362A53B-1D1B-4676-BE07-4AA2D42C970E}
+	EndGlobalSection
+EndGlobal
